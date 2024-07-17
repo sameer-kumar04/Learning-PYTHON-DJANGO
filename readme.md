@@ -1,0 +1,1 @@
+In this repo i am sharing my LEARNING JOURNEY OF PYTHON (DJANGO)
